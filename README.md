@@ -10,3 +10,9 @@ I am a full stack developer with experience in C#, .NET, ASP.NET, and Xamarin. I
 ### Texts and contents of my authorship
 
 - [.NET in Visual Studio Code](https://dev.to/gabrieldev2001/introducao-ao-net-com-visual-studio-code-2gmp)
+  
+<div align="center">
+  <a href="https://github.com/ebagabe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ebagabe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebagabe&layout=compact&langs_count=7&theme=dark"/>
+</div>
