@@ -9,4 +9,4 @@ I am a full stack developer with experience in C#, .NET, ASP.NET, and Xamarin. I
 
 ### Texts and contents of my authorship
 
-- [Texts and contents of my authorship](https://dev.to/gabrieldev2001/introducao-ao-net-com-visual-studio-code-2gmp)
+- [.NET in Visual Studio Code](https://dev.to/gabrieldev2001/introducao-ao-net-com-visual-studio-code-2gmp)
