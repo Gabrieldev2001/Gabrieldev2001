@@ -10,6 +10,7 @@ I am a versatile full stack developer with a strong foundation in both the JavaS
 ### Texts and contents of my authorship
 
 - [.NET in Visual Studio Code](https://dev.to/gabrieldev2001/introducao-ao-net-com-visual-studio-code-2gmp)
+- [Conceito de fila na prática com CSharp](https://www.linkedin.com/posts/ebagabee_entendendo-os-conceitos-de-fila-na-pr%C3%A1tica-activity-7116795590222503937-YMmU?utm_source=share&utm_medium=member_desktop)
   
 <div align="center">
   <a href="https://github.com/ebagabe">
