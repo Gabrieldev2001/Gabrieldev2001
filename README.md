@@ -11,6 +11,7 @@ I am a versatile full stack developer with a strong foundation in both the JavaS
 
 - [.NET in Visual Studio Code](https://dev.to/gabrieldev2001/introducao-ao-net-com-visual-studio-code-2gmp)
 - [Queue concept in practice with CSharp](https://www.linkedin.com/posts/ebagabee_entendendo-os-conceitos-de-fila-na-pr%C3%A1tica-activity-7116795590222503937-YMmU?utm_source=share&utm_medium=member_desktop)
+- [So many options... What do I do?](https://dev.to/ebagabe/tantas-opcoes-o-que-eu-faco-3bk3)
   
 <div align="center">
   <a href="https://github.com/ebagabe">
