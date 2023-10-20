@@ -1,9 +1,12 @@
 # Gabriel Alves 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieldev2001&label=Profile%20views&color=000000&style=plastic" alt="gabrieldev2001" /> </p>
-<h3> Full Stack Developer with Strong Expertise in web technologies and Microsoft Technologies with Interest in Cloud (AWS) and Quality Assurance (QA) </h3>
+<h3> Backend Developer with Strong Expertise in web technologies and Microsoft Technologies with Interest in Cloud (AWS) and Quality Assurance (QA) </h3>
 
-I am a versatile full stack developer with a strong foundation in web technologies and deep expertise in Microsoft technologies. I have extensive experience in JavaScript development, including the use of various libraries and frameworks such as React, Node.js, and Express.js. Additionally, I bring significant experience in Microsoft technologies, such as C#, .NET, ASP.NET, and Xamarin.
-Currently, I am committed to expanding my knowledge in Cloud Computing, with a focus on AWS, and I am working to enhance my skills in Quality Assurance (QA). This learning journey enables me to deliver high-quality solutions and tackle innovative technological challenges with precision.
+Backend Developer with skills in C# (ASP.NET), Java (Spring Boot),
+Javascript/Typescript (NestJS, NodeJS) and Python (Flask, Django), Rest API, solid
+knowledge of distributed architectures, AWS services and microservices. Passionate
+for adopting good development practices. Committed to delivering high-quality solutions
+quality with a focus on scalability and efficiency
 
 <a href="https://twitter.com/ebagabee"><img alt="Twitter Badge" src="https://img.shields.io/badge/-@ebagabee-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/ebagabee"/></a>
 <a href="https://www.linkedin.com/in/ebagabee/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Gabriel%20Alves-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ebagabee/"/></a>
