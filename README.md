@@ -6,9 +6,19 @@ I am a software developer, proficient in Web development. I have experience in d
 
 <a href="https://twitter.com/ebagabee"><img alt="Twitter Badge" src="https://img.shields.io/badge/-@ebagabee-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/ebagabee"/></a>
 <a href="https://www.linkedin.com/in/ebagabee/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Gabriel%20Alves-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ebagabee/"/></a>
-  
-<div align="center">
-  <a href="https://github.com/ebagabe">
-  <img  width="400"  src="https://github-readme-stats.vercel.app/api?username=ebagabe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebagabe&layout=compact&langs_count=7&theme=dark&hide=css,html"/>
+<div>
+  <h3>Languages Status</h3>
+   <a href="https://github.com/ebagabe">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebagabe&layout=compact&langs_count=7&theme=dark&hide=css,html"/>
 </div>
+     
+<div>
+  <h3>Github Status</h3>
+  <a href="https://github.com/ebagabe">
+    <img  width="400"  src="https://github-readme-stats.vercel.app/api?username=ebagabe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+  
+
+ 
+   
+
