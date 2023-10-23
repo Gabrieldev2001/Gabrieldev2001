@@ -9,6 +9,6 @@ I am a software developer, proficient in Web development. I have experience in d
   
 <div align="center">
   <a href="https://github.com/ebagabe">
-  <img height="170em" width="350"  src="https://github-readme-stats.vercel.app/api?username=ebagabe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="160em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebagabe&layout=compact&langs_count=7&theme=dark&hide=css,html"/>
+  <img  height="450em" width="350"  src="https://github-readme-stats.vercel.app/api?username=ebagabe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebagabe&layout=compact&langs_count=7&theme=dark&hide=css,html"/>
 </div>
