@@ -6,12 +6,6 @@ I am a software developer, proficient in Web development. I have experience in d
 
 <a href="https://twitter.com/ebagabee"><img alt="Twitter Badge" src="https://img.shields.io/badge/-@ebagabee-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/ebagabee"/></a>
 <a href="https://www.linkedin.com/in/ebagabee/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Gabriel%20Alves-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ebagabee/"/></a>
-
-### Texts and contents of my authorship
-
-- [.NET in Visual Studio Code](https://dev.to/gabrieldev2001/introducao-ao-net-com-visual-studio-code-2gmp)
-- [Queue concept in practice with CSharp](https://www.linkedin.com/posts/ebagabee_entendendo-os-conceitos-de-fila-na-pr%C3%A1tica-activity-7116795590222503937-YMmU?utm_source=share&utm_medium=member_desktop)
-- [So many options... What do I do?](https://dev.to/ebagabe/tantas-opcoes-o-que-eu-faco-3bk3)
   
 <div align="center">
   <a href="https://github.com/ebagabe">
