@@ -8,11 +8,11 @@ Hello! I'm a passionate .NET developer with a strong background in various aspec
 
 🔨 My skills include:
 
-✅ High-quality .NET development
-✅ Design and implementation of secure solutions
-✅ IAM consulting
-✅ Collaboration with cross-functional teams
-✅ Efficiently solving complex problems
+✅ High-quality .NET development<br>
+✅ Design and implementation of secure solutions<br>
+✅ IAM consulting<br>
+✅ Collaboration with cross-functional teams<br>
+✅ Efficiently solving complex problems<br>
 
 <a href="https://twitter.com/ebagabee"><img alt="Twitter Badge" src="https://img.shields.io/badge/-@ebagabee-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/ebagabee"/></a>
 <a href="https://www.linkedin.com/in/ebagabee/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Gabriel%20Alves-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ebagabee/"/></a>
