@@ -7,10 +7,11 @@ Hey! I am a technology enthusiast with a strong foundation in the IT ecosystem. 
 
 🌐 I have experience in a variety of technologies, including:
 
-✅ High-quality .NET development (C#, ASP.NET, .NET Framework)<br>
-✅ Unity development for creating applications and games<br>
-✅ Database management with SQL Server and Entity Framework<br>
-✅ Azure cloud platform for development and deployment<br>
+✅ PHP Development (Laravel, CakePHP, Symfony, CodeIgniter)<br>
+✅ Python Development (Django, Flask) <br>
+✅ .NET development (C#, ASP.NET, .NET Framework)<br>
+✅ Database management with SQL Server, MySQL, MongoDB, PostgreSQL, SQLite<br>
+✅ AWS and Azure cloud platform for development and deployment<br>
 ✅ Information security, focusing on Identity and Access Management (IAM)
 
 <div>
