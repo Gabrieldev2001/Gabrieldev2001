@@ -6,9 +6,9 @@
 </p>
 <h3>Github Status</h1>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ebagabe&layout=compact&langs_count=16&theme=graywhite&card_height=350)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ebagabe&layout=compact&langs_count=16&theme=onedark&card_width=470)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ebagabe&show_icons=true&theme=graywhite)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ebagabe&show_icons=true&theme=onedark)
 
 
 
