@@ -1,14 +1,11 @@
-<h3 align="center"> 👨‍💻 Software Engineer Since 2021 👨‍💻</h3>
+# I'm Gabe
+
 <p align="center">
-  <a href="https://twitter.com/ebagabee"><img alt="Twitter Badge" src="https://img.shields.io/badge/-@ebagabee-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/ebagabee"/></a>
-<a href="https://www.linkedin.com/in/ebagabee/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Gabriel%20Alves-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ebagabee/"/></a>
-  <img src="https://komarev.com/ghpvc/?username=ebagabee&label=Profile%20views&color=000000&style=plastic" alt="ebagabee" />
+<a href="https://github.com/ebagabe">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ebagabe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ebagabe&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
-<h3>Github Status</h1>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ebagabe&layout=compact&langs_count=16&theme=onedark&card_width=470)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ebagabe&show_icons=true&theme=onedark)
 
 
 
