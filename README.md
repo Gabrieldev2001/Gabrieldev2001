@@ -1,4 +1,4 @@
-# I'm Gabe
+# I'm Gabe, Backend Developer
 
 <p align="center">
   <a href="https://github.com/ebagabe">
