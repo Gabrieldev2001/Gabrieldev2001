@@ -1,5 +1,6 @@
-# I'm Gabe, Backend Developer
+# I'm Gabe, Software Developer
 
+Langs: Javascript, Typescript, C#, PHP
 
 
 <p align="center">
