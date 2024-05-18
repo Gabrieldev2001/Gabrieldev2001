@@ -1,6 +1,6 @@
-# I'm Gabe, Software Developer
+# I'm Gabe, Software Engineer
 
-I'm Gabe. I have been a developer since 2022. I am looking to boost my career with studies and dedication. I have a greater affinity with Backend, but I have experience with different areas of technology, such as security, DevOps and Software Quality. If you are willing to know more about me, find me on one of my social networks below:
+Full Stack Developer and Data Analyst passionate about creating innovative and efficient technological solutions. With over 2 years of experience in the field, I possess solid skills in front-end and back-end development, including technologies such as JavaScript, React, Node.js, Express, Python, .NET, SQL, and NoSQL.
 
 <a href="https://www.linkedin.com/in/ebagabee/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
