@@ -9,7 +9,7 @@ My approach to software development is centered on creating efficient and scalab
 ## Check out some of the projects I have developed or collaborated on:
 
 <details>
-<summary><h3>Backend</h3></summary>
+<summary>Backend</summary>
 
 #### Drug Sales API: [Link](https://github.com/ebagabe/Api-VendasMedicamentos)
 - **Technologies Used:** C#/.NET Core, ASP.NET API, Entity Framework, PostgreSQL, xUnit
@@ -18,11 +18,10 @@ My approach to software development is centered on creating efficient and scalab
 #### Todo List REST API: [Link](https://github.com/ebagabe/REST-API-todo-list)
 - **Technologies Used:** JavaScript/Node, Express, Jest, Knex
 - **Difficulty Level:** Intermediate
-
 </details>
 
 <details>
-<summary><h3>Frontend</h3></summary>
+<summary>Frontend</summary>
 
 #### Random Background Color Changer: [Link](https://github.com/ebagabe/Random-Background-Color-Changer)
 - **Technologies Used:** HTML, CSS, JavaScript
