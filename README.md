@@ -11,6 +11,7 @@ My approach to software development is centered on creating efficient and scalab
 - <a href="https://github.com/ebagabe/ebagabe/backend">BACKEND</a>
 - <a href="https://github.com/ebagabe/ebagabe/frontend">FRONTEND</a>
 - <a href="https://github.com/ebagabe/ebagabe/fullstack">FULL-STACK</a>
+- <a href="https://github.com/ebagabe/ebagabe/logicprograms">LOGIC PROGRAMS</a>
 
 
 
