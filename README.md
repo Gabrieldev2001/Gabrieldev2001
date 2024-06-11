@@ -8,10 +8,23 @@ My approach to software development is centered on creating efficient and scalab
 
 ## Check out some of the projects I have developed or collaborated on:
 
-- <a href="https://github.com/ebagabe/ebagabe/backend">BACKEND</a>
+<!-- - <a href="https://github.com/ebagabe/ebagabe/backend">BACKEND</a>
 - <a href="https://github.com/ebagabe/ebagabe/frontend">FRONTEND</a>
 - <a href="https://github.com/ebagabe/ebagabe/fullstack">FULL-STACK</a>
-- <a href="https://github.com/ebagabe/ebagabe/logicprograms">LOGIC PROGRAMS</a>
+- <a href="https://github.com/ebagabe/ebagabe/logicprograms">LOGIC PROGRAMS</a> -->
+
+<details>
+<summary>Front-End</summary>
+
+#### Random Background Color Changer: [Link](https://github.com/ebagabe/Random-Background-Color-Changer)
+- **Technologies Used:** HTML, CSS, JavaScript
+- **Difficulty Level:** Basic
+
+#### RPG Game: [Link](https://github.com/ebagabe/RPG-JavaScript)
+- **Technologies Used:** HTML, CSS, JavaScript
+- **Difficulty Level:** Basic/Intermediate
+
+</details>
 
 
 
