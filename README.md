@@ -6,33 +6,6 @@ My approach to software development is centered on creating efficient and scalab
 
 <a href="https://www.linkedin.com/in/ebagabee/" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-## Check out some of the projects I have developed or collaborated on:
-
-<details>
-<summary>Backend</summary>
-
-#### Drug Sales API: [Link](https://github.com/ebagabe/Api-VendasMedicamentos)
-- **Technologies Used:** C#/.NET Core, ASP.NET API, Entity Framework, PostgreSQL, xUnit
-- **Difficulty Level:** Intermediate
-
-#### Todo List REST API: [Link](https://github.com/ebagabe/REST-API-todo-list)
-- **Technologies Used:** JavaScript/Node, Express, Jest, Knex
-- **Difficulty Level:** Intermediate
-</details>
-
-<details>
-<summary>Frontend</summary>
-
-#### Random Background Color Changer: [Link](https://github.com/ebagabe/Random-Background-Color-Changer)
-- **Technologies Used:** HTML, CSS, JavaScript
-- **Difficulty Level:** Basic
-
-#### RPG Game: [Link](https://github.com/ebagabe/RPG-JavaScript)
-- **Technologies Used:** HTML, CSS, JavaScript
-- **Difficulty Level:** Basic/Intermediate
-
-</details>
-
 
 
 
